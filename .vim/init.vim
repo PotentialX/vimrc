@@ -516,6 +516,7 @@ set nowritebackup
 set updatetime=300
 set cmdheight=1
 set shortmess+=c
+set cursorline
 
 " Always show the signcolumn, otherwise it would shift the text each time
 " diagnostics appear/become resolved.
